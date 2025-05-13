@@ -64,7 +64,7 @@ https://colab.research.google.com/drive/1THkajRbuHN2TyNDUlpUnMMqzSkXfPHwS?usp=sh
 
 ## Colab Link
 
-You can preview and interact with the notebook via [Google Colab here](https://colab.research.google.com/drive/your-colab-id-here)  
+You can preview and interact with the notebook via (https://colab.research.google.com/drive/1THkajRbuHN2TyNDUlpUnMMqzSkXfPHwS?usp=sharing)  
 
 
 ## 📌 Submission Notes
